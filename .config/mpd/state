@@ -1,0 +1,110 @@
+sw_volume: 98
+audio_device_state:1:mpd alsamixer-output
+audio_device_state:1:toggle_visualizer
+state: pause
+current: 15
+time: 3.192000
+random: 0
+repeat: 0
+single: 0
+consume: 0
+crossfade: 5
+mixrampdb: 0.000000
+mixrampdelay: -1.000000
+playlist_begin
+0:Glam_HM_80-90/00 Whitesnake - Looking For Love.mp3
+1:Glam_HM_80-90/01 Alice Cooper - Bed of Nails.mp3
+2:Glam_HM_80-90/02 Lita Ford - Kiss Me Deadly - Lita Ford, Smiley, Mick.mp3
+3:Glam_HM_80-90/02a Journey - Don't Stop Believin'.mp3
+4:Glam_HM_80-90/03 Bon Jovi - You Give Love a Bad Name.mp3
+5:Glam_HM_80-90/03 Whitesnake - Love Ain't No Stranger (Unplugged).mp3
+6:Glam_HM_80-90/04 Giant - I'll See You in My Dreams.mp3
+7:Glam_HM_80-90/05 Van Halen - Can't Stop Lovin' You.mp3
+8:Glam_HM_80-90/06 Michael Schenker Group - Anytime.mp3
+9:Glam_HM_80-90/07 Whitesnake - Fool for your loving.mp3
+10:Glam_HM_80-90/08 Bon Jovi - Someday I'll Be Saturday Night.mp3
+11:Glam_HM_80-90/08 Skid Row - Can't Stand the Heartache.mp3
+12:Glam_HM_80-90/08 ZZ Top - Planet of Women.mp3
+13:Glam_HM_80-90/09 Def Leppard - Hysteria.mp3
+14:Glam_HM_80-90/10 Van Halen - Don't Tell Me (What Love Can Do).mp3
+15:Glam_HM_80-90/11 Skid Row - Wasted Time.mp3
+16:Glam_HM_80-90/12 Alice Cooper - House of Fire.mp3
+17:Glam_HM_80-90/13 W.A.S.P. - Sleeping (In the Fire).mp3
+18:Glam_HM_80-90/14 Vixen - Rev It Up.mp3
+19:Glam_HM_80-90/15 Annihilator - Sounds Good To Me.mp3
+20:Glam_HM_80-90/16 The Cult - Edie (Ciao Baby).mp3
+21:Glam_HM_80-90/16 ZZ Top - Can't Stop Rockin'.mp3
+22:Glam_HM_80-90/17 Whitesnake -Now You're Gone.mp3
+23:Glam_HM_80-90/18 Bon Jovi - Livin' on a Prayer.mp3
+24:Glam_HM_80-90/18 Poison - Talk Dirty to Me.mp3
+25:Glam_HM_80-90/19 Skid Row - 18 and life.mp3
+26:Glam_HM_80-90/20 Def Leppard - Rock of Ages.mp3
+27:Glam_HM_80-90/20 ZZ Top - Got Me Under Pressure.mp3
+28:Glam_HM_80-90/21 Whitesnake - Wings of the Storm.mp3
+29:Glam_HM_80-90/22 Alice Cooper - Poison.mp3
+30:Glam_HM_80-90/23 The Cult - Fire Woman.mp3
+31:Glam_HM_80-90/24 Vixen - One Night Alone.mp3
+32:Glam_HM_80-90/25 Bon Jovi - Miracle.mp3
+33:Glam_HM_80-90/25 Lita Ford - Falling in and Out of Love.mp3
+34:Glam_HM_80-90/26 Van Halen - Love Walks In.mp3
+35:Glam_HM_80-90/27 W.A.S.P. - Love Machine.mp3
+36:Glam_HM_80-90/28 Skid Row - Midnight-Tornado.mp3
+37:Glam_HM_80-90/29 Poison - Ride The Wind.mp3
+38:Glam_HM_80-90/30 Vixen - Only a Heartbeat Away.mp3
+39:Glam_HM_80-90/31 W.A.S.P. - Wild Child.mp3
+40:Glam_HM_80-90/32 Whitesnake - The Deeper the Love.mp3
+41:Glam_HM_80-90/33 White Lion - Broken Heart.mp3
+42:Glam_HM_80-90/34 The Cult - She Sells Sanctuary.mp3
+43:Glam_HM_80-90/35 Bon Jovi - Dyin' Ain't Much of a Livin'.mp3
+44:Glam_HM_80-90/35 Skid Row - Big Guns.mp3
+45:Glam_HM_80-90/36 Van Halen - Why Can't This Be Love.mp3
+46:Glam_HM_80-90/37 Alice Cooper - Hell Is Living Without You.mp3
+47:Glam_HM_80-90/38 Poison - Something To Believe In.mp3
+48:Glam_HM_80-90/39 Skid Row - In A Darkened Room.mp3
+49:Glam_HM_80-90/39 ZZ Top - Legs.mp3
+50:Glam_HM_80-90/40 W.A.S.P. - Harder Faster.mp3
+51:Glam_HM_80-90/41 Bon Jovi - Stick To Your Guns.mp3
+52:Glam_HM_80-90/41 Vixen - Cryin'.mp3
+53:Glam_HM_80-90/42 Skid Row - Here I am.mp3
+54:Glam_HM_80-90/43 White Lion - Love Don't Come Easy.mp3
+55:Glam_HM_80-90/44 Vixen - Not a Minute Too Soon.mp3
+56:Glam_HM_80-90/44 ZZ Top - Gimme All Your Lovin'.mp3
+57:Glam_HM_80-90/45 Skid Row - Quicksand Jesus.mp3
+58:Glam_HM_80-90/46 Whitesnake - Sailing Ships.mp3
+59:Glam_HM_80-90/47 L.A. Guns - Crystal Eyes.mp3
+60:Glam_HM_80-90/48 Bon Jovi - Wild Is The Wind.mp3
+61:Glam_HM_80-90/48 Vixen - Love Made Me.mp3
+62:Glam_HM_80-90/49 Def Leppard - Photograph.mp3
+63:Glam_HM_80-90/50 Van Halen - Top of the World.mp3
+64:Glam_HM_80-90/51 Skid Row - Makin' a Mess.mp3
+65:Glam_HM_80-90/52 Whitesnake - Don't Fade Away.mp3
+66:Glam_HM_80-90/53 Def Leppard - Love Bites.mp3
+67:Glam_HM_80-90/54 Vixen - Edge of a Broken Heart.mp3
+68:Glam_HM_80-90/55 White Lion - When the Children Cry.mp3
+69:Glam_HM_80-90/56 Poison - Life Goes on.mp3
+70:Glam_HM_80-90/57 Skid Row - Sweet Little Sister.mp3
+71:Glam_HM_80-90/58 Def Leppard - 06 Animal.mp3
+72:Glam_HM_80-90/59 Damn Yankees - High Enough.mp3
+73:Glam_HM_80-90/60 Cinderella - Don't Know What You Got.mp3
+74:Glam_HM_80-90/62 Skid Row - I Remember You.mp3
+75:Glam_HM_80-90/62 Van Halen - Jump.mp3
+76:Glam_HM_80-90/63 Def Leppard - Pour Some Sugar on Me.mp3
+77:Glam_HM_80-90/64 Whitesnake - Give Me All Your Love.mp3
+78:Glam_HM_80-90/65 Alice Cooper - Only My Heart Talkin'.mp3
+79:Glam_HM_80-90/66 W.A.S.P. - I Wanna Be Somebody.mp3
+80:Glam_HM_80-90/67 Winger - Headed for a Heartbreak.mp3
+81:Glam_HM_80-90/68 The Cult - Sweet Soul Sister.mp3
+82:Glam_HM_80-90/69 Extreme - More Than Words.mp3
+83:Glam_HM_80-90/70 Van Halen - Right Now.mp3
+84:Glam_HM_80-90/71 Kix - Don't Close Your Eyes.mp3
+85:Glam_HM_80-90/72 Whitesnake - Soldier of Fortune.mp3
+86:Glam_HM_80-90/73 Lita Ford - Close My Eyes Forever.mp3
+87:Glam_HM_80-90/74 Whitesnake - Still Of The Night.mp3
+88:Glam_HM_80-90/75 ZZ Top - Tush.mp3
+89:Glam_HM_80-90/16 ZZ Top - Can't Stop Rockin'.mp3
+90:Glam_HM_80-90/08 ZZ Top - Planet of Women.mp3
+91:Glam_HM_80-90/75 ZZ Top - Tush.mp3
+92:Glam_HM_80-90/44 ZZ Top - Gimme All Your Lovin'.mp3
+93:Glam_HM_80-90/20 ZZ Top - Got Me Under Pressure.mp3
+94:Glam_HM_80-90/39 ZZ Top - Legs.mp3
+playlist_end

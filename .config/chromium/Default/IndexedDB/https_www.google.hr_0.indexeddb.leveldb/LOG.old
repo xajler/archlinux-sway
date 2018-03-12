@@ -1,0 +1,3 @@
+2018/03/12-22:00:30.895 2607 Reusing MANIFEST /home/x/.config/chromium/Default/IndexedDB/https_www.google.hr_0.indexeddb.leveldb/MANIFEST-000001
+2018/03/12-22:00:30.895 2607 Recovering log #4
+2018/03/12-22:00:30.901 2607 Reusing old log /home/x/.config/chromium/Default/IndexedDB/https_www.google.hr_0.indexeddb.leveldb/000004.log 
