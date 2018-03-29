@@ -15,12 +15,13 @@ set $left h
 set $down j
 set $up k
 set $right l
-font pango:mono,FontAwesome, 10
+font pango:Terminus,FontAwesome, 10
 # Your preferred terminal emulator
 set $term urxvt
 #urxvt
 # Your preferred application launcher
-set $menu dmenu_run
+#set $menu dmenu_run
+set $menu rofi -show run
 
 default_border pixel 2
 
@@ -403,8 +404,21 @@ bar {
         statusline #dcdcdc
         background #661b1918 
         separator #661b1918 
-#        inactive_workspace #32323200 #32323200 #5c5c5c
+        inactive_workspace #32323200 #32323200 #5c5c5c
     }
+}
+
+input 2:7:SynPS/2_Synaptics_TouchPad {
+    scroll_method two_finger
+    natural_scroll enabled
+    dwt enabled
+    pointer_accel -1
+    accel_profile adaptive
+}
+
+input 2:10:TPPS/2_IBM_TrackPoint {
+    pointer_accel -1
+    accel_profile adaptive
 }
 
 exec mpd
